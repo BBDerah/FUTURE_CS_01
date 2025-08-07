@@ -1,0 +1,25 @@
+# Lab 01: Implementing Azure RBAC
+
+## 🎯 Objective
+
+-Set up and explore a test web app (like DVWA or OWASP Juice Shop)
+-Use scanning tools like OWASP ZAP, Burp Suite, or Nikto
+-Test for common vulnerabilities like SQL injection, XSS, and CSRF
+-Map the vulnerabilities to OWASP Top 10 threats
+-Document findings with screenshots, impact level, and remediation steps
+-Compile a Security Assessment Report (PDF format)
+
+
+## 🛠 Steps Taken
+1. Run the Juice Shop Application on Kali linux
+.juice-shop -h
+
+
+## 📸 Screenshots
+(Add relevant screenshots here)
+
+## 📚 Key Learnings
+- How RBAC enforces least privilege in Azure.
+- Difference between built-in and custom roles.
+
+## 🔗 References
